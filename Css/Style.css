@@ -1,0 +1,38 @@
+.part1{
+	background: #00a651;
+	width: 995px;
+	height: 70px;
+}
+.part2{
+	width: 995px;
+	height: 500px;
+	background: #7cc576; 
+}
+.box{
+	float: left;
+	width: 325px;
+	height: 470px;
+	margin: 5px;
+	background: #00a651;
+}
+.box2{
+	float: left;
+	width: 325px;
+	height: 470px;
+	margin: 5px;
+	background: #00a651
+
+}
+.box3{
+	float: left;
+	width: 325px;
+	height: 470px;
+	margin: 5px;
+	background: #00a651
+}
+.part3{
+	float: left;
+	width: 995px;
+	height: 150px;
+	background: #00a651
+}
